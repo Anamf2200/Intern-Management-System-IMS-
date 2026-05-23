@@ -1,3 +1,4 @@
 node_modules/
 .env
 uploads/
+src/config/interne-management-system-firebase-adminsdk-*.json
