@@ -1,4 +1,4 @@
-# Intern-Management-System-IMS
+
 # Internee.pk Virtual Internship Tasks 🚀
 
 This repository contains the tasks and projects completed during my Virtual Internship at Internee.pk as a Node.js Intern.
@@ -168,8 +168,7 @@ Through this internship, I improved my skills in:
 
 ---
 
-# 🤝 Acknowledgement
-Special thanks to Internee.pk for providing this valuable learning opportunity and helping me gain hands-on industry experience.
+
 
 
 
